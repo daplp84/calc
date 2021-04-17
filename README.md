@@ -19,3 +19,5 @@ npm run test
 Bajcic Rosana
 
 Lizarde Gerardo
+
+Piassini Daniel
