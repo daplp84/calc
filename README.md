@@ -17,3 +17,5 @@ npm run test
 ## Integrantes
 
 Bajcic Rosana
+
+Lizarde Gerardo
